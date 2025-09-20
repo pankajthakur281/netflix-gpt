@@ -12,13 +12,5 @@ export const API_OPTIONS = {
       "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjMTZjNzcyYTQ3MWVjM2E0NTNhMTc1YmEwZTIyMWM1YiIsIm5iZiI6MTc1ODI2MjkzOS43MDMsInN1YiI6IjY4Y2NmNjliMTkzNmFiMTcyNDRkYmM0MiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.brzUwq2orxjTNNlriqluExJ9a9mbzFpEowoM_2wUhAc",
   },
 };
-export const PLAY_ICON = (
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    className="inline w-8 h-w-8 mr-2 object-cover"
-    viewBox="0 0 24 24"
-    fill="currentColor"
-  >
-    <path d="M8 5v14l11-7z" />
-  </svg>
-);
+
+export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w200";
